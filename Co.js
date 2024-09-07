@@ -10,7 +10,7 @@
 
 // Adding elements:
 elements.chicken_1 = {
-    color: "#ffffff",
+    color: "#fff89f",
     behavior: behaviors.LIQUID,
     category: "liquids",
     viscosity: 100000,
